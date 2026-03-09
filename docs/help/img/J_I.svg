@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svg-inline--fa fa-building fa-w-14"
+   aria-hidden="true"
+   focusable="false"
+   data-prefix="fas"
+   data-icon="building"
+   role="img"
+   viewBox="0 0 100 100"
+   data-fa-i2svg=""
+   version="1.1"
+   id="svg1"
+   width="100"
+   height="100"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g7"
+     transform="translate(9.347701,3.5)">
+    <path
+       fill="currentColor"
+       d="M 66.845546,78.437501 H 63.997124 V 13.421875 C 63.997124,11.532002 62.46681,10 60.579022,10 H 12.725575 c -1.88779,0 -3.418103,1.532002 -3.418103,3.421875 V 78.437501 H 6.459053 c -0.9438242,0 -1.709052,0.766069 -1.709052,1.710937 V 83 h 63.804596 v -2.851562 c 0,-0.944868 -0.765228,-1.710937 -1.709051,-1.710937 z"
+       id="path1"
+       style="fill:#ffffff;fill-opacity:1;stroke:#808080;stroke-width:7;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       style="fill:none;stroke:#808080;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="4.5574713"
+       height="4.5625"
+       x="25.335283"
+       y="21.636341" />
+    <rect
+       style="fill:none;stroke:#808080;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="4.5574713"
+       height="4.5625"
+       x="25.335283"
+       y="36.236343" />
+    <rect
+       style="fill:none;stroke:#808080;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="4.5574713"
+       height="4.5625"
+       x="25.335283"
+       y="50.836342" />
+    <rect
+       style="fill:none;stroke:#808080;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4"
+       width="4.5574713"
+       height="4.5625"
+       x="43.565166"
+       y="21.636341" />
+    <rect
+       style="fill:none;stroke:#808080;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5"
+       width="4.5574713"
+       height="4.5625"
+       x="43.565166"
+       y="36.236343" />
+    <rect
+       style="fill:none;stroke:#808080;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6"
+       width="4.5574713"
+       height="4.5625"
+       x="43.565166"
+       y="50.836342" />
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:7;stroke-dasharray:none;stroke-opacity:1"
+       id="rect7"
+       width="10.217379"
+       height="18.077345"
+       x="31.54361"
+       y="62.432842" />
+  </g>
+</svg>

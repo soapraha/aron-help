@@ -1,0 +1,108 @@
+﻿site_name: aron.soapraha.cz – nápověda a seznam zkratek
+
+#copyright: "© 2026 Státní oblastní archiv v Praze | <a href='https://soapraha.cz'>www.soapraha.cz</a>"
+
+theme:
+  name: material
+  language: cs
+  features:
+    - navigation.instant
+    - navigation.tabs
+#    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - toc.integrate
+    - navigation.top
+    - content.code.copy
+  palette:
+    scheme: default
+    toggle:
+      icon: material/weather-night
+      name: Přepnout režim
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets:
+      base_path:
+        - snippets
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      toc_depth: 3
+
+plugins:
+  - search:
+      lang: [en, cs]
+      separator: '[\s\-]+'
+
+extra:
+  social:
+    - icon: fontawesome/solid/circle-info
+      link: https://aron.soapraha.cz
+      name: aron.soapraha.cz
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/profile.php?id=100057709357854
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/soapraha/
+    #- icon: fontawesome/brands/x-twitter
+      #link: https://x.com/SOAvPlzni
+  generator: false
+  nav:
+    - icon: material/help-circle
+      title: Nápověda
+    - icon: material/order-alphabetical-ascending
+      title: Zkratky
+    - icon: material-arrow-u-right-top-bold
+      title: ZPĚT na aron.soapraha.cz
+    - icon: material-sitemap
+      title: Archivní soubory
+    - icon: material-file-document-multiple
+      title: Archiválie
+    - icon: material-label
+      title: Přístupové body
+    - icon: material-book-information-variant
+      title: Vysvětlivky
+      
+nav:
+  - Nápověda: 
+    - Nápověda – úvod: help/index.md
+    - Představení webu: help/about.md
+    - Jak na webu vyhledávat: help/search.md
+    - Úvodní strana webu: help/home.md
+    - Sekce: 
+      - Sekce – úvod: sections/index.md
+      - Společné prvky sekcí: sections/common.md
+      - Archivní soubory: sections/section-fund.md
+      - Archiválie: sections/section-archdesc.md
+      - Přístupové body: sections/section-entity.md
+    - Vysvětlivky a pojmy: help/glossary.md
+    - Zkratky: abbreviations/index.md
+  - Zkratky:
+    - 0–9: abbreviations/index.md
+    - A, B, C, Č: abbreviations/a-c.md
+    - D, E, F, G, H: abbreviations/d-h.md
+    - CH, I, J, K: abbreviations/ch-k.md
+    - L, M, N: abbreviations/l-n.md
+    - O: abbreviations/o.md
+    - P, R, Ř: abbreviations/p-r.md
+    - S, Š: abbreviations/s.md
+    - T, U, V: abbreviations/t-v.md
+    - Y, Z, Ž: abbreviations/y-z.md
+    - Nápověda: index.md
+  - ↻ ZPĚT na aron.soapraha.cz: https://aron.soapraha.cz
+
+extra_css:
+  - css/extra.css
+extra_javascript:
+  - js/extra.js
+
+strict: false
+use_directory_urls: true

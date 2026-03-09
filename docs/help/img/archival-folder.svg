@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="svg-icon"
+   fill="#ffcc00"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg4"
+   width="100"
+   height="100"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs4" />
+  <circle
+     r="50"
+     cx="50"
+     cy="50"
+     id="circle"
+     style="fill:#79a7d1;fill-opacity:1;stroke-width:1" />
+  <path
+     id="path18"
+     d="m 23.052195,63.92363 c 0,11.377158 -3.764307,10.02843 46.180853,10.02843 10.05678,0.05742 7.244061,-1.930545 7.819482,-29.209065 0,-13.916386 -0.316113,-11.323993 -29.620417,-11.323993 -8.504195,-8.504248 -2.889997,-7.312829 -17.328288,-7.312829 -8.113015,0 -7.138473,3.700679 -7.05163,37.817688 z"
+     style="fill:#ffffff;stroke-width:0.6" />
+</svg>

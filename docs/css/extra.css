@@ -156,6 +156,10 @@ dl.abbr-list dd {
 .md-typeset a:hover {
   color: #e54154; 
 }
+
+md-typeset a {
+  text-decoration: underline; 
+}
 /* Navigation menu */
 .md-content a:hover {
   color: #e54154; 

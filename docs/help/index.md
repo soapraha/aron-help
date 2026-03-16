@@ -14,6 +14,8 @@ title: Nápověda
 
 * [:material-book-information-variant: Vysvětlivky a pojmy](/help/glossary/): přehled hlavních [pojmů](/help/glossary/#pojmy) a významu ikon
 
+* **[Objednání archiválie do badatelny ](/help/order)**
+
 **[:material-order-alphabetical-ascending: Zkratky](/abbreviations)**: seznam zkratek, které se vyskytují v&nbsp;archivním popisu (viz sekce [Archiválie](/sections/section-archdesc)) a v&nbsp;archivních pomůckách (v&nbsp;inventářích)
 
 

@@ -6,8 +6,6 @@
 
 <dl class="abbr-list">
 
-<dt>CHDZ</dt>
-		<dd>Chodské dřevařské závody</dd>
 <dt>CHKO</dt>
 		<dd>chráněná krajinná oblast</dd>
 <dt>I. Ú.</dt>
@@ -22,10 +20,6 @@
 		<dd>inventární číslo</dd>
 <dt>IPCHO</dt>
 		<dd>individuální protichemická ochrana (improvizované/individuální prostředky chemické ochrany)</dd>
-<dt>J</dt>
-		<dd>jiné archiválie</dd>
-<dt>JD</dt>
-		<dd>Jáchymovské doly</dd>
 <dt>JDTO</dt>
 		<dd>Jednotná dobrovolná tělovýchovná organizace</dd>
 <dt>JEP</dt>
@@ -58,16 +52,10 @@
 		<dd>jednoletý učební kurz</dd>
 <dt>JZD</dt>
 		<dd>jednotné zemědělské družstvo</dd>
-<dt>K</dt>
-		<dd>úřední knihy a rukopisy</dd>
 <dt>K. L. M., KLM</dt>
 		<dd>Královská holandská letecká společnost</dd>
 <dt>k. p.</dt>
 		<dd>koncernový podnik</dd>
-<dt>k. s.</dt>
-		<dd>koňská síla</dd>
-<dt>k.s.</dt>
-		<dd>komanditní společnost</dd>
 <dt>k. ú.</dt>
 		<dd>katastrální území</dd>
 <dt>KaPP, KPP</dt>
@@ -110,8 +98,6 @@
 		<dd>komise lidové kontroly</dd>
 <dt>KMR</dt>
 		<dd>krajská mírová rada</dd>
-<dt>KNKV</dt>
-		<dd>Krajské nakladatelství Karlovy Vary</dd>
 <dt>KNV</dt>
 		<dd>krajský národní výbor</dd>
 <dt>KONZ</dt>

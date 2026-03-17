@@ -6,8 +6,6 @@
 
 <dl class="abbr-list">
 
-<dt>D</dt>
-		<dd>digitální datasety</dd>
 <dt>daj</dt>
 		<dd>digitální archivní jednotka</dd>
 <dt>DČSP</dt>
@@ -18,8 +16,6 @@
 		<dd>dětský diagnostický ústav</dd>
 <dt>dfo</dt>
 		<dd>digitální fotografie</dd>
-<dt>DI</dt>
-		<dd>dílčí inventář</dd>
 <dt>DIČ</dt>
 		<dd>daňové identifikační číslo</dd>
 <dt>DKP</dt>
@@ -68,22 +64,14 @@
 		<dd>elenchy</dd>
 <dt>ELZA</dt>
 		<dd>Elektronické zpracování archiválií</dd>
-<dt>ETD</dt>
-		<dd>Elektrotechnická továrna Doudlevce (závod ZVIL v Plzni-Doudlevcích)</dd>
 <dt>evid. j. č.</dt>
 		<dd>evidenční jednotka číslo</dd>
-<dt>EX Plzeň</dt>
-		<dd>gastronomické výstavní trhy v Plzni</dd>
 <dt>EXPO</dt>
 		<dd>světová výstava</dd>
-<dt>F</dt>
-		<dd>fotografie a filmy</dd>
 <dt>fal</dt>
 		<dd>fotoalba</dd>
 <dt>fas</dt>
 		<dd>fascikl</dd>
-<dt>fdr</dt>
-		<dd>fonografické dráty</dd>
 <dt>FDTJ</dt>
 		<dd>Federace dělnických tělovýchovných jednot</dd>
 <dt>FIJO</dt>
@@ -100,6 +88,8 @@
 		<dd>fakultní nemocnice</dd>
 <dt>FNO</dt>
 		<dd>Fond národní obnovy</dd>
+<dt>f.</dt>
+		<dd>folium</dd>
 <dt>fol.</dt>
 		<dd>folium</dd>
 <dt>fpa</dt>

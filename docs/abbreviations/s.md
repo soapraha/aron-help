@@ -55,7 +55,7 @@
 <dt>SIÚ</dt>
 		<dd>Silniční investorský útvar</dd>
 <dt>SKNV</dt>
-		<dd>Severočeský krajský národní výbor</dd>
+		<dd>Středočeský krajský národní výbor</dd>
 <dt>SL</dt>
 		<dd>státní lesy</dd>
 <dt>SLH</dt>
@@ -106,7 +106,7 @@
 		<dd>Sdružení rodičů a přátel školy</dd>
 <dt>SS</dt>
 		<dd>Schutzstaffel (ochranné oddíly)</dd>
-<dt>SS</dt>
+<dt>StSt</dt>
 		<dd>státní statek</dd>
 <dt>SSH</dt>
 		<dd>systém socialistického hospodaření</dd>

@@ -6,18 +6,12 @@
 
 <dl class="abbr-list">
 
-<dt>T</dt>
-		<dd>tajné</dd>
-<dt>T</dt>
-		<dd>typáře</dd>
 <dt>TANAP</dt>
 		<dd>Tatranský národní park</dd>
 <dt>TBC</dt>
 		<dd>tuberkulóza</dd>
 <dt>TDO</dt>
 		<dd>tuhý domovní odpad</dd>
-<dt>TEROZ Tachov n. p.</dt>
-		<dd>Technický rozvoj Tachov, národní podnik</dd>
 <dt>TGM</dt>
 		<dd>Tomáš Garrigue Masaryk</dd>
 <dt>THP</dt>
@@ -30,12 +24,8 @@
 		<dd>transports internationaux routiers (mezinárodní automobilová doprava)</dd>
 <dt>TJ</dt>
 		<dd>tělovýchovná jednota</dd>
-<dt>TJ</dt>
-		<dd>Tachovská Jiskra</dd>
 <dt>TK</dt>
 		<dd>technická kontrola</dd>
-<dt>TLP</dt>
-		<dd>Tachovský lesnický průmysl</dd>
 <dt>TNP</dt>
 		<dd>tábor nucené práce</dd>
 <dt>TOO</dt>

@@ -24,8 +24,6 @@
 		<dd>předměty faleristické povahy</dd>
 <dt>PHM</dt>
 		<dd>pohonné hmoty</dd>
-<dt>PIS</dt>
-		<dd>prozatímní inventární seznam</dd>
 <dt>PKDZ</dt>
 		<dd>posudková komise důchodového zabezpečení</dd>
 <dt>PKO</dt>
@@ -58,6 +56,8 @@
 		<dd>Pionýrská organizace Socialistického svazu mládeže</dd>
 <dt>poč. ot.</dt>
 		<dd>Počet otisků</dd>
+<dt>poč. ot.</dt>
+		<dd>počet</dd>
 <dt>poh</dt>
 		<dd>pohlednice</dd>
 <dt>poř</dt>
@@ -106,8 +106,6 @@
 		<dd>presidium zemské správy politické</dd>
 <dt>PZÚ</dt>
 		<dd>presidium zemského úřadu v Praze</dd>
-<dt>R</dt>
-		<dd>registraturní pomůcky</dd>
 <dt>RaJ</dt>
 		<dd>Restaurace a jídelny</dd>
 <dt>raz</dt>

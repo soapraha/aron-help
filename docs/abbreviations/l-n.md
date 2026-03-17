@@ -6,8 +6,6 @@
 
 <dl class="abbr-list">
 
-<dt>L</dt>
-		<dd>listiny</dd>
 <dt>LBD</dt>
 		<dd>lidové bytové družstvo</dd>
 <dt>LDN</dt>
@@ -48,8 +46,6 @@
 		<dd>lehké topné oleje</dd>
 <dt>LZ</dt>
 		<dd>lesní závod</dd>
-<dt>M</dt>
-		<dd>mapy, plány, grafické listy</dd>
 <dt>map</dt>
 		<dd>mapy</dd>
 <dt>mat</dt>
@@ -119,6 +115,8 @@
 <dt>MPSV</dt>
 		<dd>Ministerstvo práce a sociálních věcí</dd>
 <dt>MS</dt>
+		<dd>manipulační seznam</dd>
+<dt>MS</dt>
 		<dd>myslivecké sdružení</dd>
 <dt>MSH</dt>
 		<dd>Mladí strážci hranic</dd>
@@ -154,8 +152,6 @@
 		<dd>ministerstvo vnitra a životního prostředí</dd>
 <dt>MZVž</dt>
 		<dd>Ministerstvo zemědělství a výživy</dd>
-<dt>N</dt>
-		<dd>kartony</dd>
 <dt>n. p.</dt>
 		<dd>národní podnik</dd>
 <dt>NAD</dt>
@@ -168,12 +164,6 @@
 		<dd>Národní fronta</dd>
 <dt>NH</dt>
 		<dd>národní hospodářství</dd>
-<dt>NHKG</dt>
-		<dd>Nová huť Klementa Gottwalda</dd>
-<dt>NJP</dt>
-		<dd>národní jednota pošumavská</dd>
-<dt>NJS</dt>
-		<dd>národní jednota severočeská</dd>
 <dt>NN</dt>
 		<dd>nízké napětí</dd>
 <dt>NP</dt>
@@ -190,8 +180,6 @@
 		<dd>nedělní škola</dd>
 <dt>NV</dt>
 		<dd>národní výbor</dd>
-<dt>NVmP</dt>
-		<dd>Národní výbor města Plzně</dd>
 <dt>NVÚ</dt>
 		<dd>nápravně výchovný ústav</dd>
 </dl>

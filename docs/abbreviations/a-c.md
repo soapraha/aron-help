@@ -78,12 +78,8 @@
 		<dd>bezpečnost a ochrana zdraví při práci</dd>
 <dt>BSP</dt>
 		<dd>brigáda socialistické práce</dd>
-<dt>C</dt>
-		<dd>fascikl</dd>
 <dt>c. k.</dt>
 		<dd>císařsko-královský</dd>
-<dt>CAN</dt>
-		<dd>Centrální autobusové nádraží</dd>
 <dt>CIM</dt>
 		<dd>Codex iuris municiplis</dd>
 <dt>CO</dt>

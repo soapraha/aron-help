@@ -53,11 +53,9 @@
 <dt>ZKZ</dt>
 		<dd>Západočeské keramické závody</dd>
 <dt>zl.</dt>
-		<dd>Zlatý</dd>
+		<dd>zlatý</dd>
 <dt>ZLM</dt>
 		<dd>závodní Lidové milice</dd>
-<dt>ZN Plzeň</dt>
-		<dd>Západočeské nakladatelství Plzeň</dd>
 <dt>ZNV</dt>
 		<dd>zemský národní výbor</dd>
 <dt>ZNZP</dt>
@@ -74,8 +72,6 @@
 		<dd>zemědělské odborné učiliště</dd>
 <dt>ZP</dt>
 		<dd>Základní pravidla pro zpracování archiválií</dd>
-<dt>zpč.</dt>
-		<dd>západočeský</dd>
 <dt>ZPF</dt>
 		<dd>zemědělský půdní fond</dd>
 <dt>ZPS</dt>
@@ -98,24 +94,16 @@
 		<dd>zdravotně technická instalace</dd>
 <dt>ZTV</dt>
 		<dd>základní tělesná výchova</dd>
-<dt>ZUD</dt>
-		<dd>Západočeské uranové doly</dd>
 <dt>ZÚNZ</dt>
 		<dd>závodní ústav národního zdraví</dd>
 <dt>ZUŠ</dt>
 		<dd>základní umělecká škola</dd>
 <dt>ZV</dt>
 		<dd>závodní výbor</dd>
-<dt>ZVAK</dt>
-		<dd>Západočeské vodovody a kanalizace</dd>
-<dt>ZVIL</dt>
-		<dd>Závody Vladimíra Iljiče Lenina (dobový název plzeňského podniku Škoda)</dd>
 <dt>zza</dt>
 		<dd>zvukové záznamy v analogové i digitální podobě</dd>
 <dt>ZZN</dt>
 		<dd>Zemědělské zásobování a nákup</dd>
-<dt>ŽBC</dt>
-		<dd>Železárny Bílá Cerkev</dd>
 <dt>ŽRP</dt>
 		<dd>ženské ruční práce</dd>
 <dt>ŽV</dt>

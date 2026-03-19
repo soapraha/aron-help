@@ -40,5 +40,5 @@ Až budou databázové záznamy archiválií systematicky opatřovány přístup
 
 ## eBadatelna
 
-V dolní části úvodní obrazovky jsou odkazy na tematické databáze s digitalizáty na webu [eBadatelna](https://ebadatelna.soapraha.cz). 
+V dolní části úvodní obrazovky jsou odkazy na tematické databáze s digitalizáty na webu [^^eBadatelna^^](https://ebadatelna.soapraha.cz). 
 

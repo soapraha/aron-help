@@ -2,7 +2,7 @@
 
 ## O webu [aron.soapraha.cz](https://aron.soapraha.cz) – archivní popis
 
-Prezentační web [aron.soapraha.cz](https://aron.soapraha.cz) nyní běží na platformě ARON, 
+Prezentační web [^^aron.soapraha.cz^^](https://aron.soapraha.cz) nyní běží na platformě ARON, 
 která nabízí nové možnosti oproti starší verzi určené pro publikaci archivních pomůcek. 
 
 Nově zde naleznete seznam a stručný popis všech [:material-sitemap: archivních souborů](/sections/section-fund) Státního oblastního archivu v&nbsp;Praze (SOA v&nbsp;Praze) 

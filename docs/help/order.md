@@ -30,7 +30,7 @@ Pokud má archivní soubor dostupnou pomůcku pouze v naskenované formě, můž
 
 1. Označit požadované archiválie do stažené naskenované pomůcky a takovou následně zaslat jako přílohu e-mailu příslušnému okresnímu archivu nebo na centrálu na e-mail studovna@soapraha.cz (kontakty na jednotlivá pracoviště najdete [^^zde^^](https://www.soapraha.cz/kontakty/)).
 
-2. Vytvořit ve stažené naskenované pomůcce výstřižky požadovaných archiválií a následně je zašlete spolu S NÁZVEM ARCHIVNÍHO FONDU (viz zelený obdélník) příslušnému archivu okresnímu archivu nebo na centrálu na e-mail studovna@soapraha.cz. 
+2. Vytvořit ve stažené naskenované pomůcce výstřižky požadovaných archiválií a následně je zaslat spolu S NÁZVEM ARCHIVNÍHO FONDU (viz zelený obdélník) příslušnému archivu okresnímu archivu nebo na centrálu na e-mail studovna@soapraha.cz. 
 
 ![Pomůcka](./img/snippet.png)
 
